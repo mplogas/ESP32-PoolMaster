@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\MarcPlogas\Testwiese\ESP32-PoolMaster\pH_Orp Board V2\Project Outputs for ph_Orp_Board\Generates pick and place files\Pick Place for ph_Orp_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/05/25
+Time:       10:17
+Revision:   cf140ac7f942ee0c6c9210b65e5b1c80b1a86300
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                              
+U4         ADM3260        TopLayer    SOP65P780X200-20N  2840.000      1945.000      180      "I²C Digital Isolator 2500Vrms 2 Channel - 25kV/µs CMTI 20-SSOP (0.209, 5.30mm Width)" 
+U3         ADS1115IDGSR   TopLayer    SOP50P490X110-10N  2095.000      1900.000      270      ""                                                                                       
+U2         LMP7721MA/NOPB TopLayer    SOIC127P599X175-8N 1810.000      1240.000      0        "3 Femtoampere Input Bias Current Precision Amplifier 8-SOIC -40 to 125"                 
+U1         LMP7721MA/NOPB TopLayer    SOIC127P599X175-8N 1810.000      2420.000      0        "3 Femtoampere Input Bias Current Precision Amplifier 8-SOIC -40 to 125"                 
+R24        10k            BottomLayer 0805R-10K          3200.000      2040.000      90       Resistor                                                                                 
+R23        10k            BottomLayer 0805R-10K          3110.000      2040.000      90       Resistor                                                                                 
+R22        10k            TopLayer    0805R-10K          2585.000      2285.000      180      Resistor                                                                                 
+R21        30.9k          TopLayer    0805R-33K          2405.000      2285.000      180      Resistor                                                                                 
+R20        10k            TopLayer    0805R-10K          2435.000      1730.000      90       Resistor                                                                                 
+R19        10k            TopLayer    0805R-10K          2520.000      1730.000      90       Resistor                                                                                 
+R18        0              TopLayer    0805R-0R1          2595.000      1330.000      90       Resistor                                                                                 
+R17        0              TopLayer    0805R-0R1          2516.666      1330.000      90       Resistor                                                                                 
+R16        0              TopLayer    0805R-0R1          2438.334      1330.000      90       Resistor                                                                                 
+R15        0              TopLayer    0805R-0R1          2360.000      1330.000      90       Resistor                                                                                 
+R14        100            BottomLayer 0805R-100          1705.000      1865.000      0        Resistor                                                                                 
+R13        100            BottomLayer 0805R-100          1705.000      1685.000      180      Resistor                                                                                 
+R12        100            BottomLayer 0805R-100          1705.000      1955.000      0        Resistor                                                                                 
+R11        100            BottomLayer 0805R-100          1705.000      2125.000      180      Resistor                                                                                 
+R10        10k            TopLayer    0805R-10K          1925.000      1500.000      180      Resistor                                                                                 
+R9         10k            TopLayer    0805R-10K          1720.000      2645.000      0        Resistor                                                                                 
+R8         10k            TopLayer    0805R-10K          1730.000      1495.000      180      Resistor                                                                                 
+R7         10k            TopLayer    0805R-10K          1910.000      2645.000      0        Resistor                                                                                 
+R6         1M             BottomLayer 0805R-TBD          2075.000      1475.000      270      Resistor                                                                                 
+R5         200k           BottomLayer 0805R-220K         2085.000      2285.000      90       Resistor                                                                                 
+R4         51k            BottomLayer 0805R-56K          1910.000      1505.000      0        Resistor                                                                                 
+R3         51k            BottomLayer 0805R-56K          1900.000      2325.000      0        Resistor                                                                                 
+R2         100k           BottomLayer 0805R-100K         1735.000      1505.000      0        Resistor                                                                                 
+R1         100k           BottomLayer 0805R-100K         1715.000      2325.000      0        Resistor                                                                                 
+J3         HEADER-1X4     TopLayer    HEADER-1X4         3210.000      1525.000      0        ""                                                                                       
+J2         pH             TopLayer    BNC_RA_CON         1405.394      1314.213      0        "BNC Elbow Connector"                                                                    
+J1         Orp            TopLayer    BNC_RA_CON         1405.394      2495.787      0        "BNC Elbow Connector"                                                                    
+C15        220nF          BottomLayer 0805C-GENERIC      1705.000      1775.000      0        Capacitor                                                                                
+C14        220nF          BottomLayer 0805C-GENERIC      1705.000      2040.000      180      Capacitor                                                                                
+C13        10uF           TopLayer    0805C-GENERIC      3195.000      2050.000      90       Capacitor                                                                                
+C12        100nF          TopLayer    0805C-GENERIC      3105.000      2050.000      90       Capacitor                                                                                
+C11        100nF          TopLayer    0805C-GENERIC      2565.000      2065.000      90       Capacitor                                                                                
+C10        10uF           TopLayer    0805C-GENERIC      2480.000      2065.000      90       Capacitor                                                                                
+C9         100nF          TopLayer    0805C-GENERIC      2135.000      1700.000      0        Capacitor                                                                                
+C8         22nF           BottomLayer 0805C-GENERIC      1940.000      1650.000      270      Capacitor                                                                                
+C7         22nF           BottomLayer 0805C-GENERIC      1855.000      1650.000      90       Capacitor                                                                                
+C6         22nF           BottomLayer 0805C-GENERIC      1855.000      2170.000      270      Capacitor                                                                                
+C5         22nF           BottomLayer 0805C-GENERIC      1940.000      2170.000      90       Capacitor                                                                                
+C4         100nF          BottomLayer 0805C-GENERIC      2165.000      1475.000      90       Capacitor                                                                                
+C3         100nF          BottomLayer 0805C-GENERIC      2165.000      2285.000      270      Capacitor                                                                                
+C2         100nF          TopLayer    0805C-GENERIC      2080.000      1175.000      90       Capacitor                                                                                
+C1         100nF          TopLayer    0805C-GENERIC      2070.000      2355.000      90       Capacitor                                                                                

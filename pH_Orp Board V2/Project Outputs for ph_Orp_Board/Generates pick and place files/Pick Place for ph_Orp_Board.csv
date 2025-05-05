@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\MarcPlogas\Testwiese\ESP32-PoolMaster\pH_Orp Board V2\Project Outputs for ph_Orp_Board\Generates pick and place files\Pick Place for ph_Orp_Board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/05/25
+Time:       10:36
+Revision:   cf140ac7f942ee0c6c9210b65e5b1c80b1a86300
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Footprint"
+"J2","35.6970mm","33.3810mm","TopLayer","0","BNC_RA_CON"
+"J1","35.6970mm","63.3930mm","TopLayer","0","BNC_RA_CON"
+"R14","43.3070mm","47.3710mm","BottomLayer","0","0805R-100"
+"R13","43.3070mm","42.7990mm","BottomLayer","180","0805R-100"
+"R12","43.3070mm","49.6570mm","BottomLayer","0","0805R-100"
+"R11","43.3070mm","53.9750mm","BottomLayer","180","0805R-100"
+"C15","43.3070mm","45.0850mm","BottomLayer","0","0805C-GENERIC"
+"C14","43.3070mm","51.8160mm","BottomLayer","180","0805C-GENERIC"
+"R1","43.5610mm","59.0550mm","BottomLayer","0","0805R-100K"
+"R9","43.6880mm","67.1830mm","TopLayer","0","0805R-10K"
+"R8","43.9420mm","37.9730mm","TopLayer","180","0805R-10K"
+"R2","44.0690mm","38.2270mm","BottomLayer","0","0805R-100K"
+"U2","45.9740mm","31.4960mm","TopLayer","0","SOIC127P599X175-8N"
+"U1","45.9740mm","61.4680mm","TopLayer","0","SOIC127P599X175-8N"
+"C7","47.1170mm","41.9100mm","BottomLayer","90","0805C-GENERIC"
+"C6","47.1170mm","55.1180mm","BottomLayer","270","0805C-GENERIC"
+"R3","48.2600mm","59.0550mm","BottomLayer","0","0805R-56K"
+"R7","48.5140mm","67.1830mm","TopLayer","0","0805R-10K"
+"R4","48.5140mm","38.2270mm","BottomLayer","0","0805R-56K"
+"R10","48.8950mm","38.1000mm","TopLayer","180","0805R-10K"
+"C8","49.2760mm","41.9100mm","BottomLayer","270","0805C-GENERIC"
+"C5","49.2760mm","55.1180mm","BottomLayer","90","0805C-GENERIC"
+"C1","52.5780mm","59.8170mm","TopLayer","90","0805C-GENERIC"
+"R6","52.7050mm","37.4650mm","BottomLayer","270","0805R-TBD"
+"C2","52.8320mm","29.8450mm","TopLayer","90","0805C-GENERIC"
+"R5","52.9590mm","58.0390mm","BottomLayer","90","0805R-220K"
+"U3","53.2130mm","48.2600mm","TopLayer","270","SOP50P490X110-10N"
+"C9","54.2290mm","43.1800mm","TopLayer","0","0805C-GENERIC"
+"C4","54.9910mm","37.4650mm","BottomLayer","90","0805C-GENERIC"
+"C3","54.9910mm","58.0390mm","BottomLayer","270","0805C-GENERIC"
+"R15","59.9440mm","33.7820mm","TopLayer","90","0805R-0R1"
+"R21","61.0870mm","58.0390mm","TopLayer","180","0805R-33K"
+"R20","61.8490mm","43.9420mm","TopLayer","90","0805R-10K"
+"R16","61.9337mm","33.7820mm","TopLayer","90","0805R-0R1"
+"C10","62.9920mm","52.4510mm","TopLayer","90","0805C-GENERIC"
+"R17","63.9233mm","33.7820mm","TopLayer","90","0805R-0R1"
+"R19","64.0080mm","43.9420mm","TopLayer","90","0805R-10K"
+"C11","65.1510mm","52.4510mm","TopLayer","90","0805C-GENERIC"
+"R22","65.6590mm","58.0390mm","TopLayer","180","0805R-10K"
+"R18","65.9130mm","33.7820mm","TopLayer","90","0805R-0R1"
+"U4","72.1360mm","49.4030mm","TopLayer","180","SOP65P780X200-20N"
+"C12","78.8670mm","52.0700mm","TopLayer","90","0805C-GENERIC"
+"R23","78.9940mm","51.8160mm","BottomLayer","90","0805R-10K"
+"C13","81.1530mm","52.0700mm","TopLayer","90","0805C-GENERIC"
+"R24","81.2800mm","51.8160mm","BottomLayer","90","0805R-10K"
+"J3","81.5340mm","38.7350mm","TopLayer","0","HEADER-1X4"
